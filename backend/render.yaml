@@ -9,5 +9,5 @@ services:
       - key: MODEL_PATH
         value: cnn_model_cifar10.h5
       - key: FRONTEND_URL
-        value: https://ton-frontend.vercel.app
+        value: https://svm-cifar10.vercel.app/
   

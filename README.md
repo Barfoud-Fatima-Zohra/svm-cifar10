@@ -6,7 +6,6 @@ Petit projet avec un backend Flask et un frontend Next.js pour classer des image
 ![Main Interface](/assets/website-screen.png)
 *Main classification interface with drag-and-drop upload*
 
-
 ### Classification Results
 ![Results](/assets/website-screen-result.png)
 *Real-time classification results with confidence scores*
